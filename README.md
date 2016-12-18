@@ -1,1 +1,1 @@
-# MPI programs from High Performance Computing Course on Udaciy
+# MPI programs learnt for High Performance Computing Course on Udaciy practice.
